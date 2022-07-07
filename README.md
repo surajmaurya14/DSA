@@ -1,2 +1,3 @@
 # DSA
-Collection of important DSA problems.
+
+## Collection of important DSA problems solved using C++.
